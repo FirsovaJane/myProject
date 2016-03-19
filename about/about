@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html> 
+	<head>  
+		<title>WEB_1.1_JFir</title>
+	</head>
+	<body>
+		<h1>about</h1>
+		<p><a href="../index.html"> ~Прямая ссылка~</a></p>
+		<p><a href="file:///‪C:\Users\Евгения\Desktop\GitHub\myProject\index.htm"> ~Абсолютная ссылка~</a></p>
+	</body>
+</html>
